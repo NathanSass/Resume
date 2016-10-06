@@ -1,5 +1,6 @@
 ##### Designer | Developer
-# Nathan Sass  
+# Nathan Sass
+nsass711@gmail.com  
 San Francisco, CA  
 
 ## Tech Skills
@@ -56,5 +57,3 @@ https://www.linkedin.com/in/nathansass
 https://dribbble.com/nsass711  
 https://twitter.com/nsass711
 https://github.com/NathanSass
-nsass711@gmail.com  
-
