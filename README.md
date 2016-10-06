@@ -1,7 +1,12 @@
 ##### Designer | Developer
 # Nathan Sass
-nsass711@gmail.com  
 San Francisco, CA  
+https://www.linkedin.com/in/nathansass  
+https://dribbble.com/nsass711  
+https://twitter.com/nsass711  
+https://github.com/NathanSass  
+nsass711@gmail.com  
+
 
 ## Tech Skills
  - Android Apps (Java)
@@ -50,10 +55,3 @@ Ful Stack Software Development, December 2013 - April 2014
 
 #### Bachelors of Science in Architecture
 University of Maryland, Graduated 2012
-
-
-## Find me at:
-https://www.linkedin.com/in/nathansass  
-https://dribbble.com/nsass711  
-https://twitter.com/nsass711  
-https://github.com/NathanSass  
