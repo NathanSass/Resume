@@ -23,6 +23,7 @@ San Francisco, CA
  - [RideArgo](https://rideargo.com)  
  - Latrine Machine [Website](https://young-dusk-3643.herokuapp.com/) or [Github](https://github.com/NathanSass/adaRR)
  - Timeline [Website](http://nathansass.github.io/Life-Timeline/) or [Github](https://github.com/NathanSass/Life-Timeline) 
+ 
 ## Work Experience
 ### RideArgo.com, San Francisco, California
 Designer & Developer, May 2016 - August 2016
