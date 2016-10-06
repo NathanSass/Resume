@@ -16,8 +16,13 @@ nsass711@gmail.com
  - UI/UX
 
 ## Android Apps
- - Buzzard Parking [Playstore](https://play.google.com/store/apps/details?id=com.buzzardparking.buzzard) or [Github](https://github.com/BuzzardParking/buzzard-android)  
+  - Buzzard Parking [Github](https://github.com/BuzzardParking/buzzard-android) or [Playstore](https://play.google.com/store/apps/details?id=com.buzzardparking.buzzard)
+  - Finch [Github](https://github.com/NathanSass/Finch) or [Playstore](https://play.google.com/store/apps/details?id=com.nathansass.finch)
+  - Nooze [Github](https://github.com/NathanSass/Nooze)
+  - Catter [Github](https://github.com/NathanSass/Catter)
 
+## Web Apps
+ - [RideArgo](https://rideargo.com)
 ## Work Experience
 ### RideArgo.com, San Francisco, California
 Designer & Developer, May 2016 - August 2016
