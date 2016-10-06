@@ -1,4 +1,3 @@
-***
 ##### Designer | Developer
 # Nathan Sass  
 San Francisco, CA  
