@@ -21,7 +21,7 @@ San Francisco, CA
 
 ## Web Projects
  - [RideArgo](https://rideargo.com)  
- - [Latrine Machine](https://young-dusk-3643.herokuapp.com/) [Github](https://github.com/NathanSass/adaRR)
+ - Latrine Machine [Website](https://young-dusk-3643.herokuapp.com/) or [Github](https://github.com/NathanSass/adaRR)
  
 ## Work Experience
 ### RideArgo.com, San Francisco, California
