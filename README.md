@@ -4,6 +4,18 @@ San Francisco, CA
 nsass711@gmail.com  
 (301) 752-8068
 
+
+## Tech Skills
+ - Android Apps (Java)
+ - Web Apps
+ - Javascript
+ - HTML/CSS
+ - Design
+ - Adobe Suite
+ - Sketch
+ - UI/UX
+
+
 ## Work Experience
 #### RideArgo.com, San Francisco, California
 Designer & Developer, May 2016 - August 2016
@@ -21,21 +33,20 @@ Application Developer,  July 2014 - December 2015
 Staff Architect, October 2012 - December 2013
 - Saw through projects from napkin sketches to construction.
 
-## Tech
- - Android Apps (Java)
- - Web Apps
- - Javascript
- - HTML/CSS
- - Design
- - Adobe Suite
- - Sketch
- - UI/UX
+## Education & Training
 
+#### Codepath Android Mobile Bootcamp
+Engineering & Product Development,  July 2016 - September 2016
+
+#### Dev Bootcamp
+Ful Stack Software Development, December 2013 - April 2014
+
+#### Bachelors of Science in Architecture
+University of Maryland, Graduated 2012
 
 
 ## Find me at:
-```
 https://www.linkedin.com/in/nathansass  
 https://dribbble.com/nsass711  
 https://twitter.com/nsass711
-```
+
