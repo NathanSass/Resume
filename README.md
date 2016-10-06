@@ -22,7 +22,8 @@ nsass711@gmail.com
   - Catter [Github](https://github.com/NathanSass/Catter)
 
 ## Web Apps
- - [RideArgo](https://rideargo.com)
+ - [RideArgo](https://rideargo.com)  
+ 
 ## Work Experience
 ### RideArgo.com, San Francisco, California
 Designer & Developer, May 2016 - August 2016
