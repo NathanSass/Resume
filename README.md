@@ -1,7 +1,6 @@
 ***
 ##### Designer | Developer
 # Nathan Sass  
-***
 San Francisco, CA  
 nsass711@gmail.com  
 (301) 752-8068
