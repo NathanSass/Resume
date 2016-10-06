@@ -21,8 +21,9 @@ nsass711@gmail.com
   - Nooze [Github](https://github.com/NathanSass/Nooze)
   - Catter [Github](https://github.com/NathanSass/Catter)
 
-## Web Apps
+## Web Projects
  - [RideArgo](https://rideargo.com)  
+ - [Latrine Machine](https://young-dusk-3643.herokuapp.com/) [Github](https://github.com/NathanSass/adaRR)
  
 ## Work Experience
 ### RideArgo.com, San Francisco, California
