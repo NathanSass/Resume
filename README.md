@@ -55,5 +55,5 @@ University of Maryland, Graduated 2012
 ## Find me at:
 https://www.linkedin.com/in/nathansass  
 https://dribbble.com/nsass711  
-https://twitter.com/nsass711
-https://github.com/NathanSass
+https://twitter.com/nsass711  
+https://github.com/NathanSass  
