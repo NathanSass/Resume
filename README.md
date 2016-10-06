@@ -2,8 +2,7 @@
 # Nathan Sass
 San Francisco, CA 
 
-nsass711@gmail.com 
-
+nsass711@gmail.com   
 https://www.linkedin.com/in/nathansass  
 https://dribbble.com/nsass711  
 https://twitter.com/nsass711  
