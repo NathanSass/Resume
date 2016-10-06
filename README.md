@@ -4,6 +4,7 @@ nsass711@gmail.com
 San Francisco, CA   
   
   
+  
 ## Tech Skills
  - Android Apps (Java)
  - Web Apps
@@ -15,17 +16,20 @@ San Francisco, CA
  - UI/UX
   
   
+  
 ## Android Apps
   - Buzzard Parking [Github](https://github.com/BuzzardParking/buzzard-android) or [Playstore](https://play.google.com/store/apps/details?id=com.buzzardparking.buzzard)
   - Finch [Github](https://github.com/NathanSass/Finch) or [Playstore](https://play.google.com/store/apps/details?id=com.nathansass.finch)
   - Nooze [Github](https://github.com/NathanSass/Nooze)
   - Catter [Github](https://github.com/NathanSass/Catter)
   
-  
+   
+   
 ## Web Projects
  - [RideArgo](https://rideargo.com)  
  - Latrine Machine [Website](https://young-dusk-3643.herokuapp.com/) or [Github](https://github.com/NathanSass/adaRR)
  - Timeline [Website](http://nathansass.github.io/Life-Timeline/) or [Github](https://github.com/NathanSass/Life-Timeline) 
+   
    
    
 ## Work Experience
@@ -45,7 +49,8 @@ Application Developer,  July 2014 - December 2015
 Staff Architect, October 2012 - December 2013
 - Saw through projects from napkin sketches to construction.
   
-  
+   
+   
 ## Education & Training
 
 #### Codepath Android Mobile Bootcamp
@@ -57,7 +62,8 @@ Ful Stack Software Development, December 2013 - April 2014
 #### Bachelors of Science in Architecture
 University of Maryland, Graduated 2012
   
-  
+   
+   
 ## Find me at:
 https://www.linkedin.com/in/nathansass  
 https://dribbble.com/nsass711  
