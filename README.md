@@ -1,12 +1,11 @@
 ##### Designer | Developer
 # Nathan Sass
-San Francisco, CA  
+San Francisco, CA 
+nsass711@gmail.com 
 https://www.linkedin.com/in/nathansass  
 https://dribbble.com/nsass711  
 https://twitter.com/nsass711  
 https://github.com/NathanSass  
-nsass711@gmail.com  
-
 
 ## Tech Skills
  - Android Apps (Java)
