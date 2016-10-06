@@ -1,9 +1,6 @@
 ##### Designer | Developer
 # Nathan Sass  
 San Francisco, CA  
-nsass711@gmail.com  
-(301) 752-8068
-
 
 ## Tech Skills
  - Android Apps (Java)
@@ -59,4 +56,5 @@ https://www.linkedin.com/in/nathansass
 https://dribbble.com/nsass711  
 https://twitter.com/nsass711
 https://github.com/NathanSass
+nsass711@gmail.com  
 
