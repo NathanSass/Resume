@@ -31,7 +31,7 @@ San Francisco, CA
 ## Work Experience
 ### RideArgo.com, San Francisco, California
 Designer & Developer, May 2016 - August 2016
-- Ride argo was a 4 person startup focused on improving access to buses.  
+- Ride argo is a 4 person startup focused on making it easier to book charter busses.  
 - Shaped the product and brought it to marketplace.  
 - Designed and developed screens & flows for users charter buses.
 
