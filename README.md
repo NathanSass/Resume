@@ -31,19 +31,21 @@ San Francisco, CA
 ## Work Experience
 ### RideArgo.com, San Francisco, California
 Designer & Developer, May 2016 - August 2016
-- Ride argo is a 4 person startup focused on improving the experience of booking a charter bus.  
-- Shaped the product and brought it to marketplace.  
-- Designed and developed screens & flows for chartering buses.
+- Worked in a 4 person startup to tackle a better solution for chartering buses.
+- Our team did 40k in revenue over 10 months and chartered two to four buses per week.
+- Designed a clear pricing structure for bus rental that allowed us to provide immediate quotes.
 
 ### J.P. Morgan Chase, San Francisco, California
 Application Developer,  July 2014 - December 2015
-- Prototyped web products for evaluation and UX testing.
-- Built a fully featured ADA compliant UI framework.
-- Implemented Agile methodoligies to launch Chase.com
+- Helped ship a new launch of the online banking application, Chase.com, the 28th most used website in the U.S.
+- We created an entirely new aesthetic for a financial tool by focusing on being personable, visually appealing, and accessible.
+- Collaborated on a team of 8 developers to build a UI library of 30+ items including carousels, datepickers, form elements, buttons, etc. that was adopted across the site.
+- Developed and animated the search results area using greensock.js and css animations.
 
 ### FORMdesign Architects, Fairfax, Virginia
 Staff Architect, October 2012 - December 2013
-- Saw through projects from napkin sketches to construction.
+- Aided in designing the first ever franchises for a celebrated restaurant in Washington D.C.,
+Ben’s Chili Bowl.
   
 <br>
 ## Education & Training
