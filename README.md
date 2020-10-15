@@ -49,14 +49,14 @@ Ben’s Chili Bowl.
 Engineering & Product Development,  July 2016 - September 2016
 
 #### Dev Bootcamp
-Ful Stack Software Development, December 2013 - April 2014
+Full Stack Software Development, December 2013 - April 2014
 
 #### Bachelors of Science in Architecture
 University of Maryland, Graduated 2012
 
 ## Find me at:
-https://www.linkedin.com/in/nathansass
-https://dribbble.com/nsass711
-https://play.google.com/store/apps/developer?id=Nathan+Sass
-https://twitter.com/nsass711
-https://github.com/NathanSass
+- https://www.linkedin.com/in/nathansass
+- https://dribbble.com/nsass711
+- https://play.google.com/store/apps/developer?id=Nathan+Sass
+- https://twitter.com/nsass711
+- https://github.com/NathanSass
